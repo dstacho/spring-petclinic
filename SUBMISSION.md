@@ -7,36 +7,36 @@ repository. This doesn’t actually need an image – I can see it from your rep
 
 
 - [5 pts] Your GitHub Actions dashboard showing a successful first build.  
-![Screen Capture1](figures/Screen Shot 2022-02-17 at 3.30.51 PM.png)
+![Screen Capture1](figures/1.png)
 
 
 - [5 pts] Your GitHub repository with the readme.md file selected showing the code that you changed to update the badge.   
-![Screen Captur2](figures/Screen Shot 2022-02-17 at 3.35.18 PM.png)
+![Screen Captur2](figures/2.png)
 
 
 - [5 pts] Your GitHub repository with the readme.md file selected showing the build success status after you’ve updated the badge markdown.  
-![Screen Capture3](figures/Screen Shot 2022-02-17 at 3.36.40 PM.png)
+![Screen Capture3](figures/3.png)
 
 
 - [5 pts] The section of the POM file showing the coordinates after you’ve commented them out.   
-![Screen Capture4](figures/Screen Shot 2022-02-17 at 3.40.53 PM.png)
+![Screen Capture4](figures/4.png)
 
 
 - [5 pts] Your GitHub Actions dashboard showing the unsuccessful build after the breaking change.  
-![Screen Capture5](figures/Screen Shot 2022-02-17 at 3.42.01 PM.png)
+![Screen Capture5](figures/5.png)
 
 
 - [5 pts] Your GitHub repository with the readme.md file selected showing the build failed status after the GitHub workflow fails.  
-![Screen Capture6](figures/Screen Shot 2022-02-17 at 3.45.03 PM.png)
+![Screen Capture6](figures/6.png)
 
 
 - [5 pts] The section of the POM file showing the coordinates after you’ve fixed them.  
-![Screen Capture7](figures/Screen Shot 2022-02-17 at 3.45.59 PM.png)
+![Screen Capture7](figures/7.png)
 
 
 - [5 pts] Your GitHub Actions dashboard showing the successful build after the breaking change has been fixed.  
-![Screen Capture8](figures/Screen Shot 2022-02-17 at 3.47.47 PM.png)
+![Screen Capture8](figures/8.png)
 
 
 - [5 pts] Your GitHub repository with the readme.md file selected showing the build success status after the GitHub workflow has recovered.  
-![Screen Capture9](figures/Screen Shot 2022-02-17 at 3.50.13 PM.png)
+![Screen Capture9](figures/9.png)
